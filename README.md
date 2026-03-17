@@ -176,3 +176,60 @@ Plot:
 ## Repository Structure
 
 Since this project is implemented in a single Google Colab notebook:
+- DMHalo.ipynb
+- README.md
+
+
+Notebook sections:
+
+1. Data Loading
+2. Physics Model (NFW)
+3. Classical Baselines
+4. PINN Training
+5. Oracle Construction
+6. Grover Search
+7. Evaluation & Plots
+
+---
+
+## Technologies Used
+
+- Python
+- PyTorch (PINN implementation)
+- Qiskit (quantum circuits & Grover search)
+- NumPy / SciPy
+- Matplotlib
+- Google Colab
+
+---
+
+## Key Contributions
+
+- Hybrid quantum-classical framework for parameter inference
+- Use of PINN as a surrogate model for quantum oracle
+- Demonstration of Grover search scaling in a physics problem
+- Comparison with classical optimization methods
+
+---
+
+## Future Work
+
+- Extend to more complex halo models
+- Improve PINN accuracy and generalization
+- Explore variational quantum algorithms
+- Apply to larger astrophysical datasets
+
+---
+
+## References
+
+- Navarro, Frenk, White (1996) — NFW Halo Model
+
+- SPARC Database — Galaxy Rotation Curves
+
+- Raissi et al. (2019) — Physics-Informed Neural Networks
+
+- Grover (1996) — Quantum Search Algorithm
+
+## Author
+Rajrupa Das
