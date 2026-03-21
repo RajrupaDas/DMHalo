@@ -1,0 +1,18 @@
+{
+    "galaxy": "NGCXXXX",
+    "rs_range": [
+        0.05,
+        0.5
+    ],
+    "rho_range": [
+        0.1,
+        5.0
+    ],
+    "grid_sizes": [
+        256,
+        1024,
+        4096
+    ],
+    "grover_formula": "pi/4 * sqrt(N)",
+    "surrogate_model": "MLP (128x3)"
+}

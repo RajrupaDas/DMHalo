@@ -1,0 +1,37 @@
+[
+    {
+        "galaxy": "NGC2403_rotmod.dat",
+        "best_rs": 0.35,
+        "best_rho_s": 0.7999999999999999,
+        "mse": 0.001000590476900015,
+        "oracle_calls": 4096
+    },
+    {
+        "galaxy": "NGC3198_rotmod.dat",
+        "best_rs": 0.2285714285714286,
+        "best_rho_s": 3.8333333333333335,
+        "mse": 0.0020946216377188444,
+        "oracle_calls": 4096
+    },
+    {
+        "galaxy": "NGC6503_rotmod.dat",
+        "best_rs": 0.14285714285714285,
+        "best_rho_s": 4.222222222222222,
+        "mse": 0.005816594367724371,
+        "oracle_calls": 4096
+    },
+    {
+        "galaxy": "NGC5055_rotmod.dat",
+        "best_rs": 0.08571428571428572,
+        "best_rho_s": 0.33333333333333337,
+        "mse": 0.004424555792051482,
+        "oracle_calls": 4096
+    },
+    {
+        "galaxy": "NGC2903_rotmod.dat",
+        "best_rs": 0.1,
+        "best_rho_s": 4.222222222222222,
+        "mse": 0.0047804125608176045,
+        "oracle_calls": 4096
+    }
+]

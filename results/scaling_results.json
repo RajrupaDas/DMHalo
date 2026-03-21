@@ -1,0 +1,20 @@
+[
+    {
+        "N": 256,
+        "grid_calls": 256,
+        "gradient_calls": 24,
+        "grover_calls": 12
+    },
+    {
+        "N": 1024,
+        "grid_calls": 1024,
+        "gradient_calls": 24,
+        "grover_calls": 25
+    },
+    {
+        "N": 4096,
+        "grid_calls": 4096,
+        "gradient_calls": 24,
+        "grover_calls": 50
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "rs": 0.3534414381786121,
+        "rho_s": 1.0000000043351087,
+        "mse": 0.0009994736785518287,
+        "iterations": 6,
+        "function_calls": 24,
+        "galaxy": "NGC2403_rotmod.dat"
+    },
+    {
+        "rs": 0.23158042028737336,
+        "rho_s": 1.0000000037424688,
+        "mse": 0.0020938329000239763,
+        "iterations": 5,
+        "function_calls": 18,
+        "galaxy": "NGC3198_rotmod.dat"
+    },
+    {
+        "rs": 0.1430155844215263,
+        "rho_s": 1.000000000608814,
+        "mse": 0.005816576855705482,
+        "iterations": 4,
+        "function_calls": 18,
+        "galaxy": "NGC6503_rotmod.dat"
+    },
+    {
+        "rs": 0.08742222695132243,
+        "rho_s": 1.0000000007154821,
+        "mse": 0.004415088608508712,
+        "iterations": 3,
+        "function_calls": 15,
+        "galaxy": "NGC5055_rotmod.dat"
+    },
+    {
+        "rs": 0.10214888892898304,
+        "rho_s": 0.9999999930640783,
+        "mse": 0.004772272719618227,
+        "iterations": 5,
+        "function_calls": 24,
+        "galaxy": "NGC2903_rotmod.dat"
+    }
+]
