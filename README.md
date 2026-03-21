@@ -212,6 +212,14 @@ Notebook sections:
 
 ---
 
+## Scaling Results
+
+- N=256, Grid=256, Gradient=24, Grover=12
+- N=1024, Grid=1024, Gradient=24, Grover=25
+- N=4096, Grid=4096, Gradient=24, Grover=50
+
+---
+
 ## Future Work
 
 - Extend to more complex halo models
