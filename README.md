@@ -90,9 +90,9 @@ Where:
 
 ---
 
-## Branch 2 — PINN + Grover
+## Branch 2 — NN + Grover
 
-### Step 1: PINN Surrogate
+### Step 1: NN Surrogate
 
 Train a neural network to approximate:
 
@@ -185,7 +185,7 @@ Notebook sections:
 1. Data Loading
 2. Physics Model (NFW)
 3. Classical Baselines
-4. PINN Training
+4. NN Surrogate Physics Informed Training
 5. Oracle Construction
 6. Grover Search
 7. Evaluation & Plots
@@ -206,7 +206,7 @@ Notebook sections:
 ## Key Contributions
 
 - Hybrid quantum-classical framework for parameter inference
-- Use of PINN as a surrogate model for quantum oracle
+- Use of physics informed neural network as a surrogate model for quantum oracle
 - Demonstration of Grover search scaling in a physics problem
 - Comparison with classical optimization methods
 
@@ -215,7 +215,7 @@ Notebook sections:
 ## Future Work
 
 - Extend to more complex halo models
-- Improve PINN accuracy and generalization
+- Improve surrogate accuracy and generalization
 - Explore variational quantum algorithms
 - Apply to larger astrophysical datasets
 
