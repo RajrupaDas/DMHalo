@@ -1,8 +1,8 @@
-# Hybrid PINN–Grover Framework for Dark Matter Halo Parameter Inference
+# Hybrid Physica Informed Surrogate–Grover Framework for Dark Matter Halo Parameter Inference
 
 ## Overview
 
-This project implements a hybrid **Physics-Informed Neural Network (PINN)** and **Grover quantum search** framework to infer **dark matter halo parameters** from galaxy rotation curves.
+This project implements a hybrid **Physics-Informed Surrogate Neural Network** and **Grover quantum search** framework to infer **dark matter halo parameters** from galaxy rotation curves.
 
 The goal is to estimate halo parameters by fitting observed rotation curves using the **Navarro–Frenk–White (NFW) model**, while demonstrating the potential advantage of quantum search over classical methods.
 
